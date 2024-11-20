@@ -1,0 +1,56 @@
+
+Collectors
+-------------------------------------------------------------------
+|    SurName   |   StampName |     No.Of Stamps |     Price    |
+-------------------------------------------------------------------
+|  Collector5  |   PStamp2   |        20        |     10.00    |
+|  Collector3  |   PStamp6   |        15        |     21.00    |
+|  Collector1  |   PStamp4   |        10        |      4.44    |
+|  Collector4  |   PStamp6   |        25        |      4.20    |
+|  Collector3  |   PStamp3   |        30        |      3.33    |
+|  Collector1  |   PStamp6   |        40        |      5.00    |
+|  Collector2  |   PStamp4   |         5        |      1.00    |
+|  Collector1  |   PStamp1   |         6        |     20.00    |
+-------------------------------------------------------------------
+
+Stamp
+----------------------------------------------------
+|  StampName    |  Year of issue | Average price |
+----------------------------------------------------
+|  PStamp1      |       2020     |     5.45      |
+|  PStamp2      |       2019     |     4.44      |
+|  PStamp3      |       2000     |     5.55      |
+|  PStamp4      |       2012     |     9.99      |
+|  PStamp5      |       2013     |     8.66      |
+|  PStamp6      |       2015     |     7.59      |
+----------------------------------------------------
+
+Task1(MostPopular Stamp)
+The Most Popular Stamp is: PStamp6
+
+Task2(MostPopular Stamp Collector List)
+List of Collectors who have at least one unit of popular stamp:
+
+Collectors(Sorted by the name of the Stamp & price in ascending)
+-------------------------------------------------------------------
+|    SurName   |   StampName |     No.Of Stamps |     Price    |
+-------------------------------------------------------------------
+|  Collector4  |   PStamp6   |        25        |      4.20    |
+|  Collector1  |   PStamp6   |        40        |      5.00    |
+|  Collector3  |   PStamp6   |        15        |     21.00    |
+-------------------------------------------------------------------
+
+List of Collectors who doesn't have at least one unit of popular stamp:
+
+Collectors(Sorted by the name of the Stamp & price in ascending)
+-------------------------------------------------------------------
+|    SurName   |   StampName |     No.Of Stamps |     Price    |
+-------------------------------------------------------------------
+|  Collector1  |   PStamp1   |         6        |     20.00    |
+|  Collector5  |   PStamp2   |        20        |     10.00    |
+|  Collector3  |   PStamp3   |        30        |      3.33    |
+|  Collector2  |   PStamp4   |         5        |      1.00    |
+|  Collector1  |   PStamp4   |        10        |      4.44    |
+-------------------------------------------------------------------
+No Match
+End of the program!!

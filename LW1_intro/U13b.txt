@@ -1,0 +1,8 @@
+Collector5;PStamp2;20;10.00
+Collector3;PStamp6;15;21.00
+Collector1;PStamp4;10;4.44
+Collector4;PStamp6;25;4.20
+Collector3;PStamp3;30;3.33
+Collector1;PStamp6;40;5.00
+Collector2;PStamp4;5;1.00
+Collector1;PStamp1;6;20.00
